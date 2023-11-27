@@ -1,0 +1,50 @@
+body {
+    background-image: url("Carsimage.jpeg");
+    background-size: cover;
+    font-family: Cambria, Cochin, Georgia, Times, Times New Roman, serif;
+    color: beige;
+    font-weight: bold;
+    text-align: center;
+    font-size: 30px;
+    height: 100vh;
+    
+    
+}
+div {
+    max-width: 500px;
+    min-width: 150px;
+    margin: auto;
+    padding: 100px;
+    
+}
+
+h1 {
+    margin-top: 10px;
+    margin-bottom: 10px;
+}
+
+h2 {
+    font-size: 50px;
+    margin-top: 0;
+    margin-bottom: 20px;
+}
+
+button {
+    border: none;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    color: white;
+    font-weight: bold;
+    width: 200px;
+    margin-bottom: 10px;
+    border-radius: 5px;
+}
+
+#increment-btn {
+    background: gold;
+}
+
+#save-btn {
+    background: turquoise;
+}
+
